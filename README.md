@@ -13,3 +13,7 @@ Now that each button responds, make it so that when you click on a button, it ad
 ### Challenge 3: On / Off classes
 
 If you used the classList.add("classname") method, your buttons can turn these styles on, but they can't turn them off. Using if-else statements, or the classList.toggle("classname") functionality, make it so that the buttons can turn styles on OR off. 
+
+### Challenge 4: Your own class!
+
+You'll notice the last button doesn't have any specifications. You get to decide the NAME of this class, and the styling that it applies. You'll need to modify the CSS file AND the javascript file. 
