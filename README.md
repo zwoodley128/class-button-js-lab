@@ -27,7 +27,7 @@ Code event listeners for the other five buttons and make sure they all work.
 
 ### Challenge 2: Add a class
 
-Now that each button responds, make it so that when you click on a button, it adds the proper class to the target div (the big div that says "Radical!"). 
+Now that each button responds, make it so that when you click on a button, it adds the proper class to the target div (the big div that says "Lit!"). 
 
 ### Challenge 3: On / Off classes
 
@@ -39,12 +39,12 @@ You'll notice the last button doesn't have any specifications. You get to decide
 
 ### Congratulations on being done! You did great, now it's time to save those changes and push them to Github. 
 ### Use the following commands to push to github (Order matters)
-## Make sure you're in Terminal 
+## Make sure you're in Terminal, use pwd to see which folder you're in, you should be in the "class-button-js-lab folder"
 ## git init
 ## git add . 
 ## git status
 ## git commit -m "Write what changes you made to your file"
-## git remote add origin "the url you used to clone the repo"
+## git remote add origin "the url you used to clone the repo" (if you get a fatal error then don't worry)
 ## git push -u origin master 
 ## Here you'll be prompted for your username and password NOTE** For your password it'll appear as if your not typing anything but you are, it's just not moving the cursor
 ## Now then, if done successfully, refresh your repostory page and you should see the cahnges you made reflected. 
